@@ -1,0 +1,74 @@
+[
+   {
+      "city" : "New New York",
+      "country" : "USA",
+      "email" : "phillipjfry@futuremail.com",
+      "firstName" : "Phillip J.",
+      "lastName" : "Fry",
+      "notes" : "From the 20th Century. Delivery boy. Many times great-uncle and great-grandfather to Professor Farnsworth.",
+      "phone" : "12933872123",
+      "state" : "NY",
+      "streetAddress" : "10 Robot Arms Apts., Apt. #289738",
+      "zip" : "10001"
+   },
+   {
+      "city" : "New New York",
+      "country" : "USA",
+      "email" : "turangaleela@futuremail.com",
+      "firstName" : "Turanga",
+      "lastName" : "Leela",
+      "notes" : "Mutant cyclops. Captain of the Planet Express Ship. Love interest of Fry.",
+      "phone" : "12053074444",
+      "state" : "NY",
+      "streetAddress" : "100 Sixth Avenue, Apt. 357",
+      "zip" : "10020"
+   },
+   {
+      "city" : "New New York",
+      "country" : "USA",
+      "email" : "john@ranchozoidberg.com",
+      "firstName" : "John",
+      "lastName" : "Zoidberg",
+      "notes" : "Alien from Decapod 10. Planet Express' staff doctor and steward. Has a medical degree and Ph.D in art history.",
+      "phone" : "",
+      "state" : "NY",
+      "streetAddress" : "Dumpster #1357, Jamaica Station",
+      "zip" : "11405"
+   },
+   {
+      "city" : "Los Angeles",
+      "country" : "USA",
+      "email" : "zappbrannigan@doop.gov",
+      "firstName" : "Zapp",
+      "lastName" : "Brannigan",
+      "notes" : "5-star General in the Democratic Order of Planets (D.O.O.P.), Captain of the Nimbus flagship and head of the D.O.O.P. army.",
+      "phone" : "10000000000",
+      "state" : "CA",
+      "streetAddress" : "1 Space Fleet Tower, Apt. 001",
+      "zip" : "90001"
+   },
+   {
+      "city" : "New New York",
+      "country" : "USA",
+      "email" : "cubertfarnsworth@googlebubblemail.com",
+      "firstName" : "Cubert",
+      "lastName" : "Farnsworth",
+      "notes" : "Professor Farnsworth's clone.",
+      "phone" : "12227779999",
+      "state" : "NY",
+      "streetAddress" : "10 Planet Express St.",
+      "zip" : "10001"
+   },
+   {
+      "city" : "Jersey City",
+      "country" : "USA",
+      "email" : "hubertfansworth@rutgersuniversity.edu",
+      "firstName" : "Hubert",
+      "lastName" : "Farnsworth",
+      "notes" : "Many times great-nephew and great-grandchild of Fry. CEO and owner of Planet Express delivery company. Tenured professor of Mars University.",
+      "phone" : "17008009000",
+      "state" : "NJ",
+      "streetAddress" : "500 Science Dr.",
+      "zip" : "70000"
+   }
+]
